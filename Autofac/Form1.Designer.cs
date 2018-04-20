@@ -1,4 +1,4 @@
-﻿namespace Autofunc
+﻿namespace Autofac
 {
     partial class Form1
     {

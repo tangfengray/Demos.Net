@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Autofunc.Properties
+namespace Autofac.Properties
 {
 
 
