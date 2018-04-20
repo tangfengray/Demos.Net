@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Autofunc", "Autofunc", "{4B02452E-5ED9-48C5-9FAA-57C3BE811330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Autofunc", "Autofunc\Autofunc.csproj", "{FB2DDA97-57BD-4407-83B3-21FEEEB84DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2DDA97-57BD-4407-83B3-21FEEEB84DAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2DDA97-57BD-4407-83B3-21FEEEB84DAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2DDA97-57BD-4407-83B3-21FEEEB84DAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2DDA97-57BD-4407-83B3-21FEEEB84DAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FB2DDA97-57BD-4407-83B3-21FEEEB84DAE} = {4B02452E-5ED9-48C5-9FAA-57C3BE811330}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35268A8D-1C93-439B-84B8-8C8195557E98}
+	EndGlobalSection
+EndGlobal
