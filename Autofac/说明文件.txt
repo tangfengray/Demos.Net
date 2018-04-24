@@ -1,0 +1,2 @@
+﻿## 用于测试autofac的测试
+## 测试环境： Visual Studio 2017  Win10  .Net Framework 4.6.1
